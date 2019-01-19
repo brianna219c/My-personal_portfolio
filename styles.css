@@ -28,3 +28,8 @@ img {
   padding: 20px 20px 20px 20px;
   border: 1px red;
 }
+
+ol li{
+  list-style-type: none;
+
+}
