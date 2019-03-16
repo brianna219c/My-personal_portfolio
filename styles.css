@@ -1,5 +1,6 @@
 body {
   text-align: center;
+
 }
 
 h3 {
@@ -11,7 +12,9 @@ h3 {
   //margin-right:%;
 }
 
-
+#home{
+  background-color: #9effeb;
+}
 
 nav a {
   font-family: 'Kaushan Script', cursive;
